@@ -28,7 +28,7 @@ Key business questions addressed:
 
 ## 🔧 Tools & Techniques Used
 - **Power BI Desktop** – Interactive dashboard design  
-- **Python (Pandas, Seaborn)** – Custom visualizations and data preprocessing  
+- **Python (Pandas, Matplotlib)** – Custom visualizations and data preprocessing  
 - **Jupyter Notebook** – Data preparation and feature engineering  
 - **Power Query** – Data cleaning and transformation  
 - **DAX Measures** – Key performance metrics  
@@ -45,12 +45,20 @@ Key business questions addressed:
 
 ---
 
-##📈 Business Applications
+## 📈 Business Applications
 
 - **Attrition Prediction** – Identify risk factors for employee turnover
 
 - **Compensation Planning** – Align salaries with job satisfaction and performance
 
 - **HR Strategy** – Optimize hiring, training, and retention policies
+
+## Screenshot/Preview
+
+<img width="993" height="542" alt="Screenshot (583)" src="https://github.com/user-attachments/assets/1abf5127-e0e8-425c-9e1d-68003ece5f38" />
+<img width="1366" height="509" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/e1321195-f4bf-4866-9c85-228b8765e122" />
+<img width="1226" height="613" alt="Screenshot (582)" src="https://github.com/user-attachments/assets/b14e05bd-25bb-4c8c-8808-05de7ff95b2c" />
+
+
 
 - **Data-Driven Insights** – Support executive decision-making with visual metrics
